@@ -29,7 +29,6 @@ Powered by **Gemini API** and enhanced with evidence-based psychological framewo
 ## 🛠️ **Technology Stack**  
 
 - **Gemini API**: Core source of information for user queries.  
-- **Bolt AI**: Framework for AI-powered conversation handling and recipe integration.  
 - **Psychological Frameworks**: Evidence-based strategies for mental health and wellness.  
 
 ---
@@ -38,5 +37,5 @@ Powered by **Gemini API** and enhanced with evidence-based psychological framewo
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/your-username/wellness-ai-assistant.git  
-   cd wellness-ai-assistant  
+   git clone https://github.com/TinsaeTadesse17/Wellness-Assistant-AI.git 
+   cd Wellness-Assistant-AI 
