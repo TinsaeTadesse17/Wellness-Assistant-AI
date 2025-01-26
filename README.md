@@ -85,5 +85,5 @@ This project is licensed under the MIT License.
 ## 📧 **Contact**  
 If you have any questions or suggestions, feel free to reach out!
 
-Email: tinsaetadesse769@gmail.com
-LinkedIn: www.linkedin.com/in/tinsae-tadesse-anteneh
+-Email: tinsaetadesse769@gmail.com
+-LinkedIn: www.linkedin.com/in/tinsae-tadesse-anteneh
